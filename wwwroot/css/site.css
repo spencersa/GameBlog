@@ -1,3 +1,7 @@
 .red{
     color:red;
 }
+
+.score-value{
+    font-size: 35px;
+}

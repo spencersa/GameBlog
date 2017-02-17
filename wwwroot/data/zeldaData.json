@@ -28,7 +28,39 @@
       "title": "The Legend of Zelda: Ocarina of Time (1998)",
       "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png",
       "completed": true,
-      "writeup": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>"
+      "writeup": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>",
+      "score": [
+        {
+          "trait": "Combat",
+          "value": "8",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Puzzles",
+          "value": "8",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Narrative",
+          "value": "9",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Sound",
+          "value": "10",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Tenacity",
+          "value": "9",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Overall",
+          "value": "10",
+          "scoreWriteup": ""
+        }
+      ]
     },
     {
       "title": "The Legend of Zelda: Majora's Mask (2000)",
