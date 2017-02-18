@@ -4,7 +4,45 @@
       "title": "The Legend of Zelda (1986)",
       "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png",
       "completed": false,
-      "writeup": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>"
+      "writeup": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>",
+      "review": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>",
+      "score": [
+        {
+          "trait": "Combat",
+          "value": "8",
+          "scoreWriteup": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sem eros, iaculis ac orci sed, dapibus euismod sapien. Morbi auctor dapibus est, dictum efficitur sem molestie eget. Fusce iaculis massa at facilisis posuere. Pellentesque condimentum nisl in erat fringilla viverra. Etiam ac ex vitae ligula tincidunt eleifend. Donec vel velit risus. Praesent congue tellus quis eros consectetur, eu posuere tortor pulvina"
+        },
+        {
+          "trait": "Puzzles",
+          "value": "8",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Narrative",
+          "value": "9",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Graphics",
+          "value": "7",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Sound",
+          "value": "10",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Tenacity",
+          "value": "9",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Overall",
+          "value": "10",
+          "scoreWriteup": ""
+        }
+      ]
     },
     {
       "title": "Zelda II: The Adventure of Link (1987)",
@@ -43,6 +81,11 @@
         {
           "trait": "Narrative",
           "value": "9",
+          "scoreWriteup": ""
+        },
+        {
+          "trait": "Graphics",
+          "value": "7",
           "scoreWriteup": ""
         },
         {
