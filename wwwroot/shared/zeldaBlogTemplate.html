@@ -19,21 +19,31 @@
             {{{review}}}
         </div>
     </div>
-    {{#score}}
-    <div class="col-md-12" style="border-bottom: solid">
-        <h4>{{trait}}</h4>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-1 score-value text-md-left">
-                    {{value}}
-                </div>
-                <div class="col-md-11">
-                    <span class="score-value"></span>
-                    <div>{{scoreWriteup}}</div>
-                </div>
-            </div>
-        </div>
-    </div>
-    {{/score}}
+    <table class="table table-striped">
+        <tbody>
+            <tr>
+                {{#score}}
+                <td>
+                    <div class="col-md-12">
+                        <div class="row">
+                            <h4>{{trait}}</h4>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-1 score-value text-md-left">
+                                        {{value}}
+                                    </div>
+                                    <div class="col-md-11">
+                                        <span class="score-value"></span>
+                                        <div>{{scoreWriteup}}</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            {{/score}}
+        </tbody>
+    </table>
 </div>
 {{/games}}

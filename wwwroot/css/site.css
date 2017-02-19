@@ -5,3 +5,12 @@
 .score-value{
     font-size: 35px;
 }
+
+.zelda-jumbrotron-banner{
+    background: url('http://img09.deviantart.net/4d6d/i/2014/287/8/8/bghyliancrest_by_fanboy4ever-d82uclq.jpg') no-repeat center center; 
+    background-size: cover;
+}
+
+.main-background{
+    background-color: lightgrey;
+}
